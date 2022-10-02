@@ -6,13 +6,18 @@ router.get("/", function (req, res, next) {
   res.render("index", { title: "Express" });
 });
 router.get("/api", function (req, res) {
-  res.status(200).json({
-    product: [
-      { id: "1234", time: "05:00" },
-      { id: "1235", time: "06:00" },
-      { id: "1236", time: "10:00" },
-    ],
-  });
+  res.status(200).json([
+    {
+      id: "024039642208",
+      time: "05:00",
+      image: "etc",
+    },
+    {
+      id: "8801675558269",
+      time: "10:00",
+      image: "etc",
+    },
+  ]);
 });
 router.post("/api", function (req, res) {
   res.status(200).json({
