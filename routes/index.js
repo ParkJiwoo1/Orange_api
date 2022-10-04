@@ -10,12 +10,14 @@ router.get("/api", function (req, res) {
     {
       id: "024039642208",
       time: "05:00",
-      image: "etc",
+      image:
+        "https://airfryerworld.com/images/Air-Fryer-Trader-Joes-Frozen-Sweet-Potato-Fries-AirFryerWorld-2-500x500.jpg.webp",
     },
     {
       id: "8801675558269",
       time: "10:00",
-      image: "etc",
+      image:
+        "https://airfryerworld.com/images/Air-Fryer-Tater-Tots-AirFryerWorld-2-500x500.jpg",
     },
   ]);
 });
