@@ -9,7 +9,7 @@ router.get("/api", function (req, res) {
   res.status(200).json([
     {
       id: "024039642208",
-      time: "05:00",
+      time: "00:05",
       image:
         "https://airfryerworld.com/images/Air-Fryer-Trader-Joes-Frozen-Sweet-Potato-Fries-AirFryerWorld-2-500x500.jpg.webp",
     },
