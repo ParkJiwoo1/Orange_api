@@ -11,13 +11,13 @@ router.get("/api", function (req, res) {
       id: "024039642208",
       time: "00:05",
       image:
-        "https://airfryerworld.com/images/Air-Fryer-Trader-Joes-Frozen-Sweet-Potato-Fries-AirFryerWorld-2-500x500.jpg.webp",
+        "https://raw.githubusercontent.com/ParkJiwoo1/Orange_api/master/routes/EMC.png?token=GHSAT0AAAAAABYI2SS362BIX3PMSHTCUCZWY2YZEQA",
     },
     {
       id: "8801675558269",
       time: "10:00",
       image:
-        "https://airfryerworld.com/images/Air-Fryer-Tater-Tots-AirFryerWorld-2-500x500.jpg",
+        "https://raw.githubusercontent.com/ParkJiwoo1/Orange_api/master/routes/PI.png?token=GHSAT0AAAAAABYI2SS2M2IQZKIJJVBAPKZYY2YZFVQ",
     },
   ]);
 });
