@@ -10,7 +10,6 @@ router.get("/api", function (req, res) {
     {
       id: "024039642208",
       model: "EME-QXG01",
-      desc: "ing",
       time: "00:05",
       image:
         "https://raw.githubusercontent.com/ParkJiwoo1/Orange_api/master/routes/EMC.png?token=GHSAT0AAAAAABYI2SS362BIX3PMSHTCUCZWY2YZEQA",
@@ -18,7 +17,6 @@ router.get("/api", function (req, res) {
     {
       id: "8801675558269",
       model: "QXE76-6",
-      desc: "ing",
       time: "10:00",
       image:
         "https://raw.githubusercontent.com/ParkJiwoo1/Orange_api/master/routes/PI.png?token=GHSAT0AAAAAABYI2SS2M2IQZKIJJVBAPKZYY2YZFVQ",
